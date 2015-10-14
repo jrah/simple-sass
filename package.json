@@ -1,0 +1,25 @@
+{
+  "name": "simple-sass",
+  "version": "1.0.0",
+  "description": "Simple Sass setup using Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrah/simple-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrah/simple-sass/issues"
+  },
+  "homepage": "https://github.com/jrah/simple-sass#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-zip": "^3.0.2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "simple-sass",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jrah/simple-sass",
+  "authors": [
+    "jrah <jjames.home@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
